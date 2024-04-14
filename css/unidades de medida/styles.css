@@ -1,0 +1,21 @@
+div {
+    background: #ededed;
+    padding: 4cm;
+    font-family: sans-serif;
+    border-left: 5px solid #999 ;
+}
+
+h1 {
+    margin: 0px;
+    font-size: 12pt;
+}
+
+span {
+    color:#999;
+    font-size: 16pt;
+    font-weight: 100px
+}
+
+p {
+    color: #555 
+}
