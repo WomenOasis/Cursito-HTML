@@ -1,0 +1,28 @@
+body {
+    background: rgb(0, 0, 0);
+}
+
+div {
+    background: red;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+}
+
+div {
+    border: 3px solid black;
+    border-width: 5px;
+    border-color: rgb(17, 0, 255);
+    border-style: solid;
+    border-radius: 5px;
+}
+
+input {
+    margin: 5px;
+    border-radius: 7px;
+    border: none;
+    width: 100px;
+    background: transparent;
+    color: blue;
+    border-bottom: 1px solid red
+}

@@ -1,6 +1,6 @@
 div {
     background-color: red;
-    width: 200p´x;
+    width: 2000px;
     height: 200px;
 }
 h1 {
@@ -10,4 +10,8 @@ h1 {
 
 input {
     width: 100%;
+}
+
+form {
+    width: 100px;
 }
