@@ -10,7 +10,8 @@ body {
     text-align: center;
     width: 300px;
     margin: auto;
-    margin-top: 2   50px;
+    margin-top: 50px;
+    padding: 20px 
 }
 
 .card_title {
